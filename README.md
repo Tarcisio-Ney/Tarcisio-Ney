@@ -11,8 +11,8 @@
 -->
 
 <div>
-  
-
+ <img height = "180" src="https://github-readme-stats.vercel.app/api?username=Tarcisio-Ney&show_icons=true&theme=dark"/>
+ <img height = "180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tarcisio-Ney&layout=compact&show_icons=true&theme=dark"/> 
 </div>
 
 <div>
